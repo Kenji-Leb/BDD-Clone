@@ -1,16 +1,24 @@
-.flex {
+.flx {
     display: flex;
 }
 
-.flex-row {
+.flx-row {
     flex-direction: row;
 }
 
-.flex-clmn {
+.flx-clmn {
     flex-direction: column;
 }
 
-.flex-center {
+.jstfy-cntnt {
     justify-content: center;
+}
+
+.align-itms {
     align-items: center;
 }
+
+.flx-wrap {
+    flex-wrap: wrap;
+}
+
