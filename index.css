@@ -166,7 +166,7 @@ header h2 {
 }
 
 .section-3-scnd-div-img img {
-    width: 700px;
+    width: 30vw;
     height: auto;
 }
 
@@ -180,6 +180,7 @@ header h2 {
     border-radius: .35rem;
     overflow: hidden;
     align-content: center;
+    flex-wrap: wrap;
 }
 
 .section-3-cards li {

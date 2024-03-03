@@ -9,7 +9,7 @@ function scrollFunction() {
     document.getElementById("navbar").style.backgroundColor = "black";
     document.getElementById("navbar").style.opacity = ".9";
     document.getElementById("navbar").style.zIndex = "1000";
-    document.getElementById("navbar").style.minHeight = "15%";
+    document.getElementById("navbar").style.minHeight = "10%";
     document.getElementById("logo").style.width = "20%";
     document.getElementById("logo").style.padding = "auto";
     document.getElementById("logo").style.margin = "0";
