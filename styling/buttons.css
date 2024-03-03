@@ -16,3 +16,8 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+button, span, li{
+    cursor: pointer;
+}
+

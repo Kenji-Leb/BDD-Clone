@@ -15,6 +15,7 @@
     background-size: cover;
     background-position: center;
     animation: slider 12.5s infinite;
+    opacity: 1;
    }
     
    .slider .slide:nth-child(1) {
