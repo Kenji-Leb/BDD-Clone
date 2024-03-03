@@ -86,10 +86,11 @@ header h2 {
     padding: 2rem;
     border-radius: .35rem;
     overflow: hidden;
+    align-content: center;
 }
 
 .section-1-cards:hover {
-    background-color: rgba(173, 216, 230, 0.404);
+    background-color: rgba(184, 230, 246, 0.374);
     transition-delay: 80ms ;
     transition-duration: 250ms;
 }
@@ -98,6 +99,13 @@ header h2 {
     word-wrap: break-word;
     text-align: center;
     font-weight: bolder;
+}
+
+.section-1-scnd-div h2{
+    margin-top: 0;
+}
+.section-1-scnd-div p{
+    margin-bottom: 0;
 }
 
 .section-2 {
@@ -132,3 +140,76 @@ header h2 {
     max-height: 100%;
 }
 
+.section-3 {
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+}
+
+.section-3-first-div {
+    max-height: 100px;
+    overflow: hidden;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.section-3-scnd-div {
+    max-height: 600px;
+    width: 100%;
+    margin: 30px 40px;
+    overflow: hidden;
+}
+
+.section-3-scnd-div-img {
+    width: 10%;
+    height: 100%;
+}
+
+.section-3-scnd-div-img img {
+    width: 700px;
+    height: auto;
+}
+
+.section-3-cards {
+    background-image: url(./assets/section-3-imgs/bg-icon.png);
+    background-repeat: no-repeat;
+    min-height: 500px;
+    width: 90%;
+    margin: 10px;
+    padding: 2rem;
+    border-radius: .35rem;
+    overflow: hidden;
+    align-content: center;
+}
+
+.section-3-cards a {
+    color: white;
+    margin: auto 5px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #0078BE;
+    border-radius: 30px;
+    padding: 5px 14px;
+    margin-bottom: 0;
+} 
+
+
+.section-3-cards:hover {
+    box-shadow: 5px 5px 8px 8px #cacacac8;;
+    transition-delay: 40ms ;
+    transition-duration: 250ms;
+}
+
+.section-3-scnd-div h2 p {
+    word-wrap: break-word;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.section-3-third-div {
+    height: 200px;
+    width: 100%;
+    padding: 30px 40px;
+    position: relative;
+    overflow: hidden;
+}
