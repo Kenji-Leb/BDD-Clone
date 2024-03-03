@@ -149,7 +149,7 @@ header h2 {
 .section-3-first-div {
     max-height: 100px;
     overflow: hidden;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bolder;
 }
 
@@ -212,4 +212,18 @@ header h2 {
     padding: 30px 40px;
     position: relative;
     overflow: hidden;
+}
+
+.section-3-third-div h3 {
+    height: 60px;
+}
+
+.section-3-third-div-img {
+    height: 140px;
+}
+
+.section-3-third-div img {
+    margin: auto 20px;
+    width: 200px;
+    cursor: pointer;
 }
