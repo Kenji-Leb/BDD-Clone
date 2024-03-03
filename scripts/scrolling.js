@@ -22,7 +22,5 @@ function scrollFunction() {
     document.getElementById("logo").style.width = "auto";
     
     document.getElementById("logo").getElementsByTagName('img')[0].src = "./assets/landing-page-imgs/logo-light.png";
-    
-
   }
 }
