@@ -14,6 +14,10 @@
     background-color: #F5F5F5;
 }
 
+.bg-footer {
+    background-color: #212121;
+}
+
 .sec4-1st {
     background: linear-gradient(to right, #21c2f3, #18c5b1,#04ee85, #008a15);
     -webkit-text-fill-color: transparent;

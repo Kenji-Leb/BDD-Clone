@@ -38,6 +38,10 @@
     align-items: center;
 }
 
+.align-cntnt-c {
+    align-content: center;
+}
+
 .align-cntnt-sa {
     align-content: space-between;
 }
