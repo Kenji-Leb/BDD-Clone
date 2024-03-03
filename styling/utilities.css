@@ -42,8 +42,12 @@
     align-content: center;
 }
 
-.align-cntnt-sa {
+.align-cntnt-sb {
     align-content: space-between;
+}
+
+.align-cntnt-sa {
+    align-content: space-around;
 }
 
 .flx-wrap {
