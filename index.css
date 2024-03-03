@@ -307,23 +307,20 @@ header h2 {
 .section-5-scnd-div {
     max-height: 500px;
     width: 100%;
-    /* margin: 30px 40px; */
+    gap: 40;
     overflow: hidden;
-    padding-top: 0;
 }
 
 .section-5-scnd-div img {
     width: 400px;
-    height: auto;
+    height: 260px;
     border-radius: 1px;
-    
 }
 
 .section-5-cards {
     min-height: 500px;
-    width: 60%;
-    /* margin: 10px; */
-    padding: 2rem;
+    width: 400px;
+    padding-bottom: 10px;
     border-radius: .35rem;
     overflow: hidden;
     align-content: center;
