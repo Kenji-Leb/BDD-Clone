@@ -87,6 +87,7 @@ header h2 {
     border-radius: .35rem;
     overflow: hidden;
     align-content: center;
+    text-align: center;
 }
 
 .section-1-cards:hover {
@@ -181,6 +182,7 @@ header h2 {
     overflow: hidden;
     align-content: center;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .section-3-cards li {
@@ -284,4 +286,65 @@ header h2 {
     word-wrap: break-word;
     text-align: center;
     font-weight: bolder;
+}
+
+.section-5 {
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+    background-image: url(./assets/section-5-imgs/bg-icon-empty.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.section-5-first-div {
+    height: 50px;
+    overflow: hidden;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.section-5-scnd-div {
+    max-height: 500px;
+    width: 100%;
+    /* margin: 30px 40px; */
+    overflow: hidden;
+    padding-top: 0;
+}
+
+.section-5-scnd-div img {
+    width: 400px;
+    height: auto;
+    border-radius: 1px;
+    
+}
+
+.section-5-cards {
+    min-height: 500px;
+    width: 60%;
+    /* margin: 10px; */
+    padding: 2rem;
+    border-radius: .35rem;
+    overflow: hidden;
+    align-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.section-5-third-div {
+    height: 50px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.section-5-third-div a {
+    color: white;
+    margin: auto 5px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #0078BE;
+    border-radius: 30px;
+    padding: 10px 24px;
 }
