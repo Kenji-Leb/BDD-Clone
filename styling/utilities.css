@@ -30,12 +30,8 @@
     justify-content: space-between;
 }
 
-.align-itms-c {
-    align-items: center;
-}
-
 .align-itms-s {
-    align-items: start;
+    align-content: start;
 }
 
 .align-itms-c {

@@ -348,3 +348,26 @@ header h2 {
     border-radius: 30px;
     padding: 10px 24px;
 }
+
+.section-6 {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.section-6-h2 {
+    width: 40%;
+    align-items: center;
+    text-align: center;
+    font-weight: 900;
+    font-size:x-large;
+}
+
+.section-6-imgs {
+    width: 60%;
+    gap: 20px;
+}
+
+.section-6-imgs img {
+    width: 300px;
+}
