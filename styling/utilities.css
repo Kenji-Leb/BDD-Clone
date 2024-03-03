@@ -22,6 +22,10 @@
     justify-content: space-around;
 }
 
+.jstfy-cntnt-se {
+    justify-content: space-evenly;
+}
+
 .jstfy-cntnt-sb {
     justify-content: space-between;
 }
