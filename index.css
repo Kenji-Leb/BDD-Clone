@@ -16,12 +16,14 @@ img {
 
 .nav-logo {
     margin-top: 10px;
+    width: auto;
+    height: auto;
 }
 
 header > nav {
     position: fixed;
     width: 100%;
-    max-height: 20%;
+    min-height: 20%;
 }
 
 header > nav li {
@@ -51,4 +53,5 @@ header h2 {
     font-size: 35px;
     font-weight:800;
     text-align: center;
+    z-index: 0;
 }
