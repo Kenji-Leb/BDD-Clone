@@ -34,6 +34,10 @@
     align-items: start;
 }
 
+.align-cntnt-sa {
+    align-content: space-between;
+}
+
 .flx-wrap {
     flex-wrap: wrap;
 }
