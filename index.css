@@ -182,6 +182,11 @@ header h2 {
     align-content: center;
 }
 
+.section-3-cards li {
+    padding: 8px auto;
+    margin: 5px auto;
+}
+
 .section-3-cards a {
     color: white;
     margin: auto 5px;
