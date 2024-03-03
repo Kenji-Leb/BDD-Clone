@@ -5,3 +5,11 @@
 .white {
     color: #FFFFFF;
 }
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.bg-colo-main {
+    background-color: #F5F5F5;
+}

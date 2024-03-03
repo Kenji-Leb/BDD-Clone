@@ -22,9 +22,14 @@
     justify-content: space-around;
 }
 
+.jstfy-cntnt-sb {
+    justify-content: space-between;
+}
+
 .align-itms-c {
     align-items: center;
 }
+
 .align-itms-s {
     align-items: start;
 }
@@ -44,3 +49,4 @@
     padding: 5px;
     margin: auto 5px;
 }
+
